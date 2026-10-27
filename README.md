@@ -15,11 +15,11 @@ title: Franxis Sam
 
 ## 🔧 技能方向
 
-- Verilog / VHDL
+- Verilog / C / Rust
 - FPGA 开发（Xilinx / GOWIN）
 - PCIE、光口通信
 - RISC-V 处理器架构
-- 芯片设计流程（前端）
+- 芯片架构设计
 
 ---
 
@@ -36,6 +36,7 @@ title: Franxis Sam
 
 ## 📂 项目
 
+- (need to be updated)
 
 ---
 
